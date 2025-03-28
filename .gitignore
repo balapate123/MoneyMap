@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
